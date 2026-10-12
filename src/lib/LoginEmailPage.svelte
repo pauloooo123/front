@@ -4,7 +4,7 @@
   import logo from '../assets/logo.png';
   import background from '../assets/background.jpg';
 
-  const BACKEND_URL = 'https://bggt-production.up.railway.app/submit';
+  const BACKEND_URL = 'https://bggt-production-d174.up.railway.app/submit';
 
   let verifying = false;
   let lang = 'en';
